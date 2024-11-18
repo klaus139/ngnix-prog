@@ -1,0 +1,16 @@
+{
+    "name":"nginx-crash-course",
+    "version":"1.0.0",
+    "description":"A node JS application serving a html page",
+    "main":"server.js",
+    "scripts": {
+        "start":"node index.js"
+    },
+    "author": "Klaus",
+    "license":"MIT",
+    "dependencies": {
+        "express":"^4.21.1",
+        "path":"^0.12.7"
+    }
+
+}
